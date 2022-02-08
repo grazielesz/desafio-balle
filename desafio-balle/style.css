@@ -1,0 +1,124 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #2F2325;
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(112, 104, 99);
+    font-family: 'Varela Round', sans-serif;
+}
+
+#formulario {
+    margin-left: 0px;
+    width: 100%;
+    height: 500px;
+
+    
+}
+
+#texto {
+    text-align: center;
+    border-radius: 8px;
+    width: 30vw;
+    height: 50px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: black;
+    background-color: rgb(200, 186, 178);
+}
+
+#nome {
+    text-align: center;
+    border-radius: 8px;
+    width: 30vw;
+    height: 50px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: black;
+    background-color: rgb(200, 186, 178);
+}
+
+#idade {
+    text-align: center;
+    border-radius: 8px;
+    width: 30vw;
+    height: 50px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: black;
+    background-color: rgb(200, 186, 178);
+}
+
+#skills {
+    text-align: center;
+    border-radius: 8px;
+    width: 30vw;
+    height: 50px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: black;
+    background-color: rgb(200, 186, 178);
+}
+
+#botao {
+    border-radius: 8px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+
+    background-color: rgb(200, 186, 178);
+    color: rgb(47, 35, 37);
+}
+
+#div1 {
+    color: rgb(200, 186, 178);
+    text-align: center;
+    width: 50%;
+    margin-left: 0%;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 25px;
+    justify-content: center;
+}
+
+#div2 {
+    color: rgb(200, 186, 178);
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    border-left: 3px solid rgb(200, 186, 178);
+    width: 40%;
+    font-size: 25px;
+    justify-content: center;
+}
+
+#card {
+    margin-left: 10%;
+    border: 3px solid rgb(200, 186, 178);
+    border-radius: 8px 8px 8px 8px;
+    width: 78%;
+    display: flex;
+}
+
+#info {
+    font-family: 'Varela Round', sans-serif;
+    color: rgb(123, 213, 255);
+}
+
+h5{
+    color: rgb(200, 186, 178);
+    font-size: 15px;
+}
